@@ -1,2 +1,5 @@
+## GitHub Metrics
 ![Metrics](./github-metrics.svg)
-![Calendar](./.github/workflows/metrics.calendar.svg)
+
+## Commit Calendar
+![Calendar](./github-calendar.svg)
