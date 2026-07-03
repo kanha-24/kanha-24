@@ -19,10 +19,12 @@ I am an **Iterative Full-Stack Software Engineer** and **Automation Architect**.
 ## 🚀 Technical Core
 
 ```javascript
-const developer = {
+const developer = 
+{
   name: "Kanha",
-  coreFocus: ["Full-Stack Engineering", "Custom OS/Terminal Simulators", "Agentic Automation"],
-  techStack: {
+  coreFocus: ["Full-Stack Engeneering", "Custom OS/Terminal Simulators", "Agentic Automation"],
+  techStack: 
+  {
     languages: ["TypeScript", "JavaScript (ES6+)", "Python", "SQL", "HTML5/CSS3"],
     frameworks: ["React.js", "Node.js", "Express", "Next.js"],
     tooling: ["Git / GitHub", "Docker", "npm / pnpm", "Vite", "ESLint"]
